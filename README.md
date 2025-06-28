@@ -12,7 +12,7 @@ The initial commit of this project marks the beginning of GUI creation. During t
 
 ## Note: 
 
-Edu-card is my actually from 2021 - it's my first ever solo developed project. 
+Edu-card is actually from 2021 - it's my first ever solo developed project. 
 
 Sadly, I lost access to the original code as I only kept it locally on a now defunct machine. This is my reimplentation of that lost code. 
 
