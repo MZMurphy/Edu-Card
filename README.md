@@ -10,6 +10,10 @@ The initial commit of this project marks the beginning of GUI creation. During t
 - Buttons: Interface elements to interact with the application.
 - Frame/Canvas: Containers for organizing and displaying flashcards and study materials.
 
-In the coming development stages, Edu-Card will be further enhanced to include features for creating, managing, and studying flashcards, making it a valuable tool for your educational needs.
+## Note: 
 
-Stay tuned for updates and improvements!
+Edu-card is my actually from 2021 - it's my first ever solo developed project. 
+
+Sadly, I lost access to the original code as I only kept it locally on a now defunct machine. This is my reimplentation of that lost code. 
+
+
